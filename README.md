@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./design/second project.png)
+![Screenshot](https://github.com/ahmedps8/second-project/blob/main/design/second%20project.png?raw=true)
 
 
 
