@@ -18,7 +18,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
 
 ### Screenshot
 
@@ -49,7 +48,6 @@ Users should be able to:
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 
